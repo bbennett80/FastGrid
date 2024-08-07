@@ -1,8 +1,8 @@
 # FastGrid
 Ag-Grid Demo with FastHTML
 
-A fun little example of how to use [Ag-Grid](https://ag-grid.com/) with [FastHTML](https://about.fastht.ml). This example also shows hot to use `style` and `cls`
-(class) within a FastHTML tag (FT). Ag-Grid is a great javascript library founded by [Niall Crosby](https://blog.ag-grid.com/in-memory-of-niall-crosby/), may he rest in peace. 
+A fun little example of how to use [Ag-Grid](https://ag-grid.com/) with [FastHTML](https://about.fastht.ml). This example also shows how to use `style` and `cls`
+(class) within a FastHTML tag (FT). Ag-Grid is a great javascript library from [Niall Crosby](https://blog.ag-grid.com/in-memory-of-niall-crosby/). *Thank you Naill.*
 
 # Install
 
