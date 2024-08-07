@@ -63,6 +63,8 @@ sample_ag_grid = """
         rowSelection: "multiple",
         rowMultiSelectWithClick: true,
         pagination: true,
+        paginationPageSize: 10,
+        paginationPageSizeSelector: [10, 25, 50],
     };
     gridApi = agGrid.createGrid(document.querySelector("#myGrid"), gridOptions);
 """
