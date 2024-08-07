@@ -1,9 +1,10 @@
 # FastGrid
 Ag-Grid Demo with FastHTML
 
-A fun little example of how to use [Ag-Grid](https://ag-grid.com/) with [FastHTML](https://about.fastht.ml).
+A fun little example of how to use [Ag-Grid](https://ag-grid.com/) with [FastHTML](https://about.fastht.ml). This example also shows hot to use `style` and `cls`
+(class) within a FastHTML tag (FT).
 
-## Install
+# Install
 
 ``` sh
 pip install python-fasthtml
